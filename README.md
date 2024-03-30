@@ -34,8 +34,8 @@ https://pt.aliexpress.com/w/wholesale-Rele-De-Estado-S%C3%B3lido-Ssr%2525252d40d
 6) HMI DWIN DMG80480C070_15WTR
 https://pt.aliexpress.com/w/wholesale-HMI-DWIN-DMG80480C070_15WTR.html?spm=a2g0o.productlist.search.0
 
-7) Source 127VAC/12VCA
-https://pt.aliexpress.com/item/1005003936232714.html?aff_fcid=2bbe378375af4554bc215c8ce950286d-1711797733255-05315-_oFt7ynw&aff_fsk=_oFt7ynw&aff_platform=api-new-link-generate&sk=_oFt7ynw&aff_trace_key=2bbe378375af4554bc215c8ce950286d-1711797733255-05315-_oFt7ynw&terminal_id=d96824b1022a4b9db66a6c7cd4901afe&afSmartRedirect=y
+7) Source 127VAC/24VCA
+https://pt.aliexpress.com/item/1005005446104614.html?spm=a2g0o.order_list.order_list_main.34.3084caa4dqtV64&gatewayAdapt=glo2bra
 
 
 
